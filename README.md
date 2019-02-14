@@ -1,1 +1,1 @@
-"# OSAMS" 
+"#Online Student Attendance Management System" 
